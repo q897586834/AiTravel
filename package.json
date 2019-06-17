@@ -1,0 +1,29 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mysql": "^2.15.0",
+    "session": "^0.1.0",
+    "vue-resource": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.sinacloud.com/travel"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "doctor",
+  "license": "ISC"
+}
